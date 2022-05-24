@@ -1,0 +1,38 @@
+https://us02web.zoom.us/w/85865583155?tk=ik7stfFp1OS6iL6M3uM9_09KUY3jLtUuIIR6Qx-kMnY.DQMAAAAT_fzSMxZaUVhLMmo2ZFJaUzI3Vm1uWjl2SWhnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+Meeting ID	858 6558 3155
+Passcode	562245
+
+https://github.com/aakashdeveloper/ang_may_22
+
+https://code.visualstudio.com/ > install
+https://nodejs.org/en/ > install
+https://github.com/ > create account
+https://git-scm.com/downloads > install
+https://github.com/Aakashdeveloper > Follow
+
+
+https://docs.google.com/document/u/0/
+
+https://aakashdeveloper.github.io/codeprofile1/
+
+git config --global user.email "anisbashashaik@gmail.com"
+git config --global user.name "anisbashashaik"
+
+UserRegistration Project
+==========================
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anisbashashaik/UserRegistration.git
+git push -u origin main
+
+//Next time after change from same folders
+git add .
+git commit -m "first commit"
+git push
+
+https://github.com/anisbashashaik/UserRegistration.git
+User Name: anisbashashaik
+Token: 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
