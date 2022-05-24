@@ -34,5 +34,3 @@ git commit -m "first commit"
 git push
 
 https://github.com/anisbashashaik/UserRegistration.git
-User Name: anisbashashaik
-Token: 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
