@@ -1,0 +1,91 @@
+@charset "ISO-8859-1";
+/*Header*/
+body {
+    margin:auto;
+}
+header {
+    height: 60px;
+    width: 100%;
+    border: 1px solid green;
+    background-color: #534e08;
+}
+
+#brand{
+    float:left;
+    font-size: 30px;
+    color: white;
+    margin-left: 1px;
+    margin-top: 4px;
+}
+
+#social{
+    float: right;
+    margin-right: 1px;
+}
+.socialImg{
+    height:50px
+}
+
+/*Search*/
+#search{
+    height:400px;
+    width: 100%;
+    border: 1px solid blue;
+    background-image: url('images/foodWallpaper.png');
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+
+}
+
+#logo{
+    background-color: white;
+    height:150px;
+    width:150px;
+    font-size: 40px;
+    border-radius: 50%;
+    margin-left: 45%;
+    margin-top: 1%;
+}
+#logo>span{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 27px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#heading{
+    font-size: 60px;
+    color: white;
+    margin-left: 30%;
+    position: absolute;
+}
+#dropdown{
+    width: 50%;
+    height: 10px;
+    margin-left: 25%;
+    margin-top: 5%;
+    position: absolute;
+}
+select{
+    font-size:20px;
+    text-align: center;
+    width:40%;
+    height:60px;
+}
+#restaurants{
+    width:50%;
+}
+/*SearchResults*/
+#searchresults{
+    height:330px;
+    width: 100%;
+    border: 1px solid rgb(91, 44, 162);
+}
+/*Footer*/
+footer {
+    height:70px;
+    width: 100%;
+    border: 1px solid orange;
+    text-align: center; 
+    color: hsl(246deg 15% 36%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
